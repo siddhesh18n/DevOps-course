@@ -1,0 +1,10 @@
+- Monolithic 
+    - 
+    - the one/single part 
+    - like one stone
+    - A single software which all components are  connected each other
+        - one bug can crash entire system
+- Microlithic
+    -
+    - Devided in micro/independant parts
+    - if the bug occurs that perticular past will get stop 
